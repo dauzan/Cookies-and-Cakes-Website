@@ -51,14 +51,14 @@ const App = () => {
   {
     id: 7,
     name: "Black Forest Cake",
-    description: "Luas Black Forest - 18 x 18 Centimeter",
+    description: "Ukuran Black Forest Cake - 18 x 18 Centimeter",
     price: 180.000,
     imageUrl: "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/catalog-image/101/MTA-159610771/latezza-cake_black-forest-circle-cake-blackforest-birthday-cake-premium-kue-ultah_full02.jpg"
   },
   {
     id: 8,
     name: "Rainbow Cake",
-    description: "Luas Rainbow Cake - 18 x 18 Centimeter",
+    description: "Ukuran Rainbow Cake - 18 x 18 Centimeter",
     price: 88.000,
     imageUrl: "https://image.idntimes.com/post/20240920/screenshot-20240919-144316-1e2f91098a6d03f143c82d5d18da0a0a.png"
   },
@@ -72,21 +72,21 @@ const App = () => {
   {
     id: 10,
     name: "Brownies Kukus",
-    description: "Luas Brownies Kukus - 20 x 15 Centimeter",
+    description: "Ukuran Brownies Kukus - 20 x 15 Centimeter",
     price: 48.000,
     imageUrl: "https://asset.kompas.com/crops/c-O98idIzWXR9vGBvUHMF-XzSpk=/0x0:1000x667/1200x800/data/photo/2021/03/30/606297bf5cb32.jpg"
   },
   {
     id: 11,
     name: "Brownies Panggang Fudgy",
-    description: "Luas Brownies Panggang Fudgy - 20x 15 Centimeter",
+    description: "Ukuran Brownies Panggang Fudgy - 20 x 15 Centimeter",
     price: 65.000,
     imageUrl: "https://www.palmia.co.id/media/recipe/medium/aac9f2ea96f3de88cdc984686d05ba0f.jpg"
   },
   {
     id: 12,
-    name: "Donat",
-    description: "Harga Donat(Aneka Rasa)/Pcs",
+    name: "Donat(Aneka Rasa)",
+    description: "Harga Donat/Pcs",
     price: 4.500,
     imageUrl: "https://www.thedailymeal.com/img/gallery/bitter-donut-flavors-reign-supreme-on-dunkin-thailands-menu/intro-1677770919.jpg"
   },
