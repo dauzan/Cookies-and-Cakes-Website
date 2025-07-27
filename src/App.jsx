@@ -226,7 +226,7 @@ const AboutUs = () => (
     <div className="flex flex-col md:flex-row items-center md:space-x-8">
       <div className="md:w-1/2 mb-6 md:mb-0">
         <img
-          src=".\public\V'tha-Cookies-Kitchen.jpg"
+          src="/V'tha-Cookies-Kitchen.jpg"
           alt="V'tha Cookies Bakery"
           className="rounded-lg shadow-md w-full h-auto object-cover"
         />
